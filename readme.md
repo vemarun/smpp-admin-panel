@@ -1,4 +1,4 @@
-SMPP Gateway Admin Panel
+SMPP Gateway Admin Panel Theme
 
 ![alt text](/smpp-admin-panel.png?raw=true)
 
